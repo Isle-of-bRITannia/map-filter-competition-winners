@@ -5,3 +5,4 @@ Ideas:
 
 different variable names, poorly named, multiple conditionals used like switch Case
 utilizing strings as arrays, poorly constructed iterations, json.string used redundantly
+have near all varibles global instead of called/created when needed, go against the DRY principal/rule, hard code in data where applicable
