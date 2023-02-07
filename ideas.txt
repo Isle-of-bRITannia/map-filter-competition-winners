@@ -1,7 +1,0 @@
-Prompt: Produce a list of all monsters that spawn in "Hyrule Field", 
-but with all strings in the 'drops' property replaced by the corresponding object from 'materials'.
-
-Ideas:
-
-different variable names, poorly named, multiple conditionals used like switch Case
-utilizing strings as arrays, poorly constructed iterations, json.string used redundantly
